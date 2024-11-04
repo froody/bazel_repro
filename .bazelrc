@@ -1,0 +1,4 @@
+build --host_action_env=AWS_PROFILE
+build --host_action_env=AWS_REGION
+build --host_action_env=AWS_ACCESS_KEY_ID
+build --host_action_env=AWS_SECRET_ACCESS_KEY
